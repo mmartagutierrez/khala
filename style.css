@@ -984,7 +984,7 @@ input:focus {
     display: block;
     margin-bottom: 15px; }
     .choose-us-content ul li i {
-      color: #bca858;
+      color: #C32818;
       padding-right: 5px; }
     .choose-us-content ul li:last-child {
       margin-bottom: 0; }
@@ -992,7 +992,7 @@ input:focus {
 .choose-us-thumbnail {
   position: relative;
   z-index: 1;
-  background-color: #ebebeb;
+  background-color: #CA861F;
   border-radius: 4px;
   height: 380px; }
   @media only screen and (max-width: 767px) {
